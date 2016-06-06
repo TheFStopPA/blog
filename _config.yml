@@ -4,8 +4,8 @@ title: The F-Stop PA
 email: TheFstopPA@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog about physician assistant school, life, and photography.
-baseurl: "/blog" 
-url: "http://TheFStopPA.com"
+baseurl: "/blog1" 
+url: "http://thefstoppa.github.io/blog1"
 tagline: "A blog about PA school, photography, and life!"
 excerpt_separator: <!--end-->
 
