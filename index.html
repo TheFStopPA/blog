@@ -16,7 +16,7 @@ layout: default
         </h2>
       </li>
       {{post.excerpt}}
-      <p align="right"><a href="{{post.url}}">[Read more...]</a></p>
+      <p align="right"><a href="{{ post.url | prepend: site.baseurl }}">[Read more...]</a></p>
     {% endfor %}
   </ul>
 <div class="pagination">
