@@ -16,3 +16,7 @@ I want to try and update this blog once a week with at least something useful. I
 # What is an F-Stop?
 
 So random aside, some people may wonder what an f-stop is. An f-stop is a measurement of light used in photography, used to describe how open the aperture is in the lens of the camera. It was my attempt to tie my photography to this blog, for better or worse.
+
+# About this Site
+
+This is a Jekyll-generated blog that is hosted on Githubs (fo’ free)! If you have a little coding knowledge and patience, I highly recommend going this route. Shoot me an <a href="mailto:thefstoppa@gmail.com">e-mail</a> if you have questions, or visit <a href="https://jekyllrb.com/" target="_blank">Jekyll’s website</a> for more info!
