@@ -27,6 +27,7 @@ can do so below!
     	<option value="underg-Decided">Undergraduate, pre-PA</option>
     	<option value="postB">Post-Bac/Nontraditional</option>
     	<option value="pa-s">Current PA student</option>
+    	<option value="otherstudent">Other healthcare student (MD, DO, NP, RN, etc.)</option>
     	<option value="pa-c">Practicing PA</option>
     	<option value="health">Other healthcare professional, (MD, DO, NP, RN, etc.)</option>
     	<option value="other">Other, see below</option>
