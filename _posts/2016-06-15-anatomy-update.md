@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anatomy, How Not to Drowned, and Other Important Topics..."
+title:  "Anatomy, How Not to Drowned, and Other Topics of Import..."
 date:   2016-06-15
 categories: update, anatomy, cadaver, study strategies, time management 
 ---
